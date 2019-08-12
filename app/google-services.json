@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393453718527",
+    "firebase_url": "https://firepizzaapp-ef324.firebaseio.com",
+    "project_id": "firepizzaapp-ef324",
+    "storage_bucket": "firepizzaapp-ef324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393453718527:android:0a1b1314979fc9c9",
+        "android_client_info": {
+          "package_name": "com.mcorps.firepizzaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393453718527-lctkb2ta0v5r3rvemaa2m943u7h9lvmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEF9Kkq1NG0Ct-6IPeGlfZ6uU-NTqG94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393453718527-lctkb2ta0v5r3rvemaa2m943u7h9lvmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
